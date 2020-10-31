@@ -1,4 +1,4 @@
-### Hi there, I'm [Mahmudur Rahman Shuhin]:(https://mr-shuhin.web.app) 👋
+### Hi there, I'm [Mahmudur Rahman Shuhin](https://mr-shuhin.web.app) 👋
 
 ## I'm a Front-end-developer and love to do work javascript
 
