@@ -19,6 +19,7 @@
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="rahmanShuhin GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rahmanShuhin&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [website]: https://mr-shuhin.web.app
 [instagram]: https://www.instagram.com/shuhin_who
 [linkedin]: https://www.linkedin.com/in/mahmudur-rahman-suhin-b61b31194
