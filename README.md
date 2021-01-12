@@ -2,8 +2,8 @@
 
 ## I'm a Front-end-developer and love to do work javascript
 
-- 🌱 I’m currently learning react-native
-- 🥅 2020 Goals: To become a Full Stack developer.......
+- 🌱 I’m currently learning react-native , next.js ,graphQL and Gtasby 
+- 🥅 2021 Goals: To become a Full Stack developer.......
 
 ### Connect with me:
 
