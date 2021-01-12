@@ -16,7 +16,6 @@
 
 ---
 
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="rahmanShuhin GitHub Stats" src="https://github-readme-stats.rahmanshuhin.vercel.app/api?username=rahmanShuhin&show_icons=true&hide_border=true" />
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanShuhin)](https://github.com/rahmanShuhin/github-readme-stats)
