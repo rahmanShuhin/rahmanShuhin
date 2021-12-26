@@ -1,6 +1,6 @@
 ### Hi there, I'm [Mahmudur Rahman Shuhin](https://mr-shuhin.web.app) 👋
 
-## I'm a Front-end-developer and love to do work javascript
+## I'm a Front-end-developer and love to do work with javascript
 
 - 🌱 I’m currently learning react-native , next.js ,graphQL and Gtasby 
 - 🥅 2021 Goals: To become a Full Stack developer.......
