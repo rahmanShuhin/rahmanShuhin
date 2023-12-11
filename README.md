@@ -3,7 +3,7 @@
 ## I'm a Front-end-developer and love to do work with javascript
 
 - 🌱 I’m currently learning react-native , next.js ,graphQL and Gtasby 
-- 🥅 2022 Goals: To become a Full Stack developer.......
+
 
 ### Connect with me:
 
